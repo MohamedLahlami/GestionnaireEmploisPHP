@@ -19,6 +19,11 @@
       <div class="container">
         <div class="box form-box" style="width: auto;">
             <header>Manage teacher</header>
+            <div class="bottom">
+                <div class="box">
+                    <p><span style="color: red">WARNING:</span> DELETING TEACHERS CAUSES THEIR SESSIONS TO BE DELETED TOO</p> 
+                </div>
+            </div>
             <table class="content-table">
                 <thead>
                     <tr>
