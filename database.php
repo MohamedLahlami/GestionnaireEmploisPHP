@@ -18,7 +18,6 @@ CREATE TABLE IF NOT EXISTS users(
 ";
 
 
-//----------------------EXPERIMENTAL----------------------------------------
 $createSessionsQuery = "
 CREATE TABLE IF NOT EXISTS sessions(
     id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
@@ -71,7 +70,6 @@ $createIntervalsquery = "
     name VARCHAR(255) NOT NULL
 );
 ";
-//----------------------EXPERIMENTAL----------------------------------------
 
 $con->selectDatabase("GestEmpTemps");
 $con->createTable($createGroupsQuery);
