@@ -6,4 +6,4 @@ ADMIN LOGIN:
   email: admin
   password: admin
 
-CE PROJET EST RÉALISÉ PAR LAHLAMI MOHAMED ([@SausyFlatSix](https://github.com/MohamedLahlami)) et EL BAHTARI HAFSSA.
+CE PROJET EST RÉALISÉ PAR LAHLAMI MOHAMED ([@MohamedLahlami](https://github.com/MohamedLahlami)) et EL BAHTARI HAFSSA.
